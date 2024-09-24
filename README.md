@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Andy!
 
-I'm using Python, Rust, and SQL.
+I'm using Python, Rust, and SQL to jumpstart my Kaggle competition spirit! 🔥
 
 **I love working with**
 

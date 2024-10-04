@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">I am 21 years old Software Engineer</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">I am 21 years old 👨‍💻 Software Engineer who is exploring ML 🤖 through creating, training, and deploying my own models on Hugging Face. I also have a keen desire to learn new math skills on my own to apply to my own understanding of ML. 😊</h3>
+<h3 align="center">I have an aptitude in finding my own solution to a problem if I can't seem to find it anywhere. I try to solve problems with my Creative Thinking skills and hope to make the solution something that is viable in the real world.</h3>
 <p align="left">
 </p>
 

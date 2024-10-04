@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Andy!
+## Hi there 👋
 
 I'm using Python, Rust, and SQL to jumpstart my Kaggle competition spirit! 🔥
 
